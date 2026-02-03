@@ -1,37 +1,29 @@
-# Details of Tools for Data Science
+# Details of Applied Data Science Capstone
 
-This course tells you why data science tool kits are useful for the data science career roles. 
+This course tells you how to utilize data science and analysis tools to prepare for the project. 
 
 ## Key Skills
 
-- R (Software)
+- Web Scraping
 
-- Cloud Computing 
+- Model Evaluation
 
-- R Programming
+- Statistical Machine Learning
 
-- Machine Learning
+- Data-Driven Decision-Making
 
-- Git (Version Control System)
-
-- Version Control
-
-- Open Source Technology 
-
-- Statistical Programming
-
-- Application Programming Interfece (API)
-
-- Big Data 
+- Business Analytics
 
 - GitHub
 
-- Computer Programming Tools
+- Plotly
 
-- Development Eniveronment 
+- Data Wrangling
 
-- Jupyter 
+- Pandas (Python Package)
 
-- Python Programming 
+- Predictive Modeling
 
-- Data Science
+- Exploratory Data Analysis
+
+- Data Analysis
