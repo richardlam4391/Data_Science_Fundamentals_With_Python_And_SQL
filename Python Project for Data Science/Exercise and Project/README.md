@@ -1,7 +1,7 @@
 Many projects are on the list of this folder
-### Title: Chicago Socioeconomic Data 
+### Title: Extracting and Visualizing Stock Data
 Date Completed: April 2025
 #### Core Tasks
-- Utilized Structured Query Language (SQL) to write queries and to find the satety correlations. 
-- Import real-world city datasets into a rational database software, such as SQLite and MySQL and SQL Server. 
-- Connect Python Jupyter Notebooks to the rational database sofeware. 
+- Utilize Python library, which is yfinance, to download the dataset from the financial history. 
+- Use BeautifulSoup to webscrape the revenue datafrom HyperText Markup Language (HTML) tables. 
+- Utilize Python library to combine one of many datasets into a whole dashboard. 
