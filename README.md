@@ -48,7 +48,7 @@ The IBM Data Science Professional Certificate is an online course program that t
 ## Chapters
 - Chapter 1: [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science?specialization=data-science-fundamentals-python-sql)
 
-- Chapter 2: [Python for Data Science, AI and DEvelopment](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=data-science-fundamentals-python-sql)
+- Chapter 2: [Python for Data Science, AI and Development](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=data-science-fundamentals-python-sql)
 
 - Chapter 3: [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science?specialization=data-science-fundamentals-python-sql)
 
