@@ -3,5 +3,5 @@ Many projects are on the list of this folder
 Date Completed: April 2025
 #### Core Tasks
 - Utilize Python library, which is yfinance, to download the dataset from the financial history. 
-- Use BeautifulSoup to webscrape the revenue datafrom HyperText Markup Language (HTML) tables. 
+- Use BeautifulSoup to webscrape the revenue data from HyperText Markup Language (HTML) tables. 
 - Utilize Python library to combine one of many datasets into a whole dashboard. 
