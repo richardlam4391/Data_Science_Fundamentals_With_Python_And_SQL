@@ -10,7 +10,7 @@
   
 - Statistics for Data Science with Python
 
-- Database and SQL for Data Science with Python
+- [Database and SQL for Data Science with Python](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/tree/main/Statistics%20for%20Data%20Science%20with%20Python)
 
 ## Professional Certificate
 The IBM Data Science Professional Certificate is an online course program that teaches learners to how to write the code in Python and SQL and gain technical experiences in computer programming and statistical analysis. There are 5 chapters in this online course program.   
