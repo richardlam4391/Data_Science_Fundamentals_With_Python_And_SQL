@@ -2,9 +2,7 @@
 
 ## Title: Chicago Socioeconomic Data 
 
-This course tells you how to make queries and databases with Structure Query Language (SQL) techniques.
-
-This repository contains querying relational databases, writing advanced SQL scripts, and utilizing Python database APIs to extract insights from real-world civic and socioeconomic datasets completed in April 2025.
+**Databases and SQL for Data Science with Python** contains querying relational databases, writing advanced SQL scripts, and utilizing Python database APIs to extract insights from real-world civic and socioeconomic datasets completed in April 2025.
 
 The project demonstrates the ability to interact with relational databases (RDBMS) such as IBM Db2, MySQL, or PostgreSQL.
 
