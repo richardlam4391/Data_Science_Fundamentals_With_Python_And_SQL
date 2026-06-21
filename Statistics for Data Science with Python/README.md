@@ -6,7 +6,7 @@ The project demonstrates the ability to test statistical hypotheses.
 
 ---
 
-## 🎯 Core Objectives
+## Core Objectives
 
 1. **Descriptive Data Analysis:** Learn to summarize, visualize, and interpret the underlying characteristics of a dataset using central tendency, dispersion, and distribution shapes.
 2. **Probability & Distributions:** Understand the theoretical distributions (e.g., Normal, Binomial, Poisson) that model real-world data behaviors and form the basis of predictive analytics.
@@ -16,7 +16,7 @@ The project demonstrates the ability to test statistical hypotheses.
 
 ---
 
-## 🛠️ Technical Skills & Tooling
+## Technical Skills & Tooling
 
 ### 1. Programming & Libraries
 * **Python 3.x:** Core language used for all statistical modeling and computations.
