@@ -34,5 +34,5 @@ The project demonstrates the ability to analyze the relationship between a compa
 
 ## Repository Structure
 ```text
-├── Final Assignment Richard Lam.ipynb                   # Completed Jyputer Notebook of the course project
-└── README.md                                            # Whole project documentation and courseworks
+├── Final Assignment Richard Lam.ipynb                      # Completed Jyputer Notebook of the course project
+└── README.md                                               # Whole project documentation and courseworks
