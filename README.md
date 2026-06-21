@@ -20,7 +20,7 @@ A structured portfolio repository demonstrating foundational data science method
 ## 📂 **Repository Structure**
 
 | # | Course Module | Status |
-| :--- | :--- | :---: |
+| :--- | :--- | :--- |
 | **01** | Tools for Data Science | ✅ Completed in June 2025 |
 | **02** | Python for Data Science, AI and Development | ✅ Completed in April 2025 |
 | **03** | Python Project for Data Science | ✅ Completed in April 2025 |
