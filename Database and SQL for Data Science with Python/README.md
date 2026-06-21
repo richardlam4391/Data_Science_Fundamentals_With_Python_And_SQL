@@ -24,7 +24,7 @@ The project demonstrates the ability to interact with relational databases (RDBM
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 * **Database Engines:** IBM Db2 Cloud Instance / PostgreSQL / SQLite
 * **Languages:** SQL (Structured Query Language), Python 3.x
 * **Python Libraries:** `pandas`, `ipython-sql`, `SQLAlchemy`, `ibm_db`
@@ -32,7 +32,7 @@ The project demonstrates the ability to interact with relational databases (RDBM
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```text
 ├── ChicagoCensusData.csv                                             # Comma separated values (CSV) in Microsoft Excel
 ├── ChicagoCrimeData.csv                                              # Comma separated values (CSV) in Microsoft Excel
