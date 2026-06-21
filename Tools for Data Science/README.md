@@ -36,4 +36,4 @@ Aligned with professional data team standards, the primary objectives achieved i
 
 ## Repository Structure
 ```text
-├── README.md                                                         # Whole project documentation and courseworks 
+└── README.md                                            # Whole project documentation and courseworks
