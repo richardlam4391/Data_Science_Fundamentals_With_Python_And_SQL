@@ -2,9 +2,7 @@
 
 ## Title: Extracting and Visualizing Stock Data
 
-This course tells you how to understand the data fundamentals and structures and to extract the data from a dataset. 
-
-This repository contains extracting, cleaning, and visualizing historical financial and revenue data for major corporations (e.g., Tesla and GameStop) completed in April 2025. 
+**Python Project for Data Science** contains extracting, cleaning, and visualizing historical financial and revenue data for major corporations (e.g., Tesla and GameStop) completed in April 2025. 
 
 The project demonstrates the ability to analyze the relationship between a company's underlying earnings and its market valuation trends.
 
@@ -25,7 +23,7 @@ The project demonstrates the ability to analyze the relationship between a compa
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 * **Language:** Python 
 * **Data Retrieval:** `yfinance` (Yahoo Finance API), `requests`
 * **Web Scraping:** `BeautifulSoup4`, `html5lib` / `lxml`
@@ -34,7 +32,7 @@ The project demonstrates the ability to analyze the relationship between a compa
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```text
 ├── Final Assignment Richard Lam.ipynb                                # Completed Jyputer Notebook of the course project
 └── README.md                                                         # Whole project documentation and courseworks 
