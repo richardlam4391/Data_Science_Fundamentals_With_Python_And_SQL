@@ -4,9 +4,7 @@ A structured portfolio repository demonstrating foundational data science method
 
 ---
 
-## 🛠️ Key Skills, Tools, and Technologies
-
-## **Core Skills**
+## 🚀 **Core Skills**
 * **Exploratory Data Analysis (EDA):** Data profiling, cleaning, handling missing or anomalous values, and structural profiling.
 * **Relational Database Management:** Query optimization, database schema navigation, and relational data modeling.
 * **Data Visualization:** Developing scannable, insightful plots to reveal underlying data patterns and distributions.
@@ -18,6 +16,8 @@ A structured portfolio repository demonstrating foundational data science method
 * **Environments & Tools:** Jupyter Notebooks, VS Code, Git, GitHub
 
 ---
+
+## 📂 **Repository Structure**
 
 | # | Course Module | Status |
 | :--- | :--- | :---: |
