@@ -1,6 +1,6 @@
 # Python for Data Science, AI and Development
 
-**Python for Data Science, AI and Development** contains tracking foundational Python programming paradigms, data structures, object-oriented principles, and initial data engineering layers using NumPy and Pandas frameworks.
+**Python for Data Science, AI and Development** contains tracking foundational Python programming paradigms, data structures, object-oriented principles, and initial data engineering layers using NumPy and Pandas frameworks. This completed in April 2025. 
 
 ---
 
