@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 * **Language:** Python 3.x
 * **Core Computational Libraries:** `Pandas`, `NumPy`
 * **Built-in modules:** `sys`, `os`, `math`
@@ -20,6 +20,6 @@
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```text
 ├── README.md                     #Whole project documentation and courseworks
