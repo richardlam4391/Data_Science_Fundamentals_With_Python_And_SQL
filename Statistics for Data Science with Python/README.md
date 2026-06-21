@@ -39,4 +39,5 @@ The project demonstrates the ability to test statistical hypotheses.
 
 ## Repository Structure
 ```text
-├── README.md                     #Whole project documentation and courseworks
+├── Peer_Graded_Assignment.jupyterlite.ipynb                          # Completed Jyputer Notebook of the course project
+└── README.md                                                         # Whole project documentation and courseworks
