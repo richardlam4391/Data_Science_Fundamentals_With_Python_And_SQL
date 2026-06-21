@@ -1,59 +1,28 @@
 # Data Science Fundamentals with Python and SQL
 
-## Professional Certificate
-The IBM Data Science Professional Certificate is an online course program that teaches learners to how to write the code in Python and SQL and gain technical experiences in computer programming and statistical analysis. There are 5 chapters in this online course program.   
+A structured portfolio repository demonstrating foundational data science methodologies, relational database querying, and statistical data analysis. 
 
-## Course Topics 
+---
 
-- [Tools for Data Science](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/tree/main/Tools%20for%20Data%20Science) 
+## 🛠️ Key Skills, Tools, and Technologies
 
-- [Python for Data Science, AI and Development](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/tree/main/Python%20for%20Data%20Science%2C%20AI%20and%20Development)
-   
-- [Python Project for Data Science](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/tree/main/Python%20Project%20for%20Data%20Science) 
-  
-- [Statistics for Data Science with Python](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/tree/main/Statistics%20for%20Data%20Science%20with%20Python)
+## **Core Skills**
+* **Exploratory Data Analysis (EDA):** Data profiling, cleaning, handling missing or anomalous values, and structural profiling.
+* **Relational Database Management:** Query optimization, database schema navigation, and relational data modeling.
+* **Data Visualization:** Developing scannable, insightful plots to reveal underlying data patterns and distributions.
+* **Statistical Analysis:** Descriptive statistics, correlation analysis, and feature relationships.
 
-- [Database and SQL for Data Science with Python](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/tree/main/Database%20and%20SQL%20for%20Data%20Science%20with%20Python)
+## 🛠️ **Tools & Technologies**
+* **Languages:** Python, SQL (SQLite, PostgreSQL)
+* **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn, SciPy
+* **Environments & Tools:** Jupyter Notebooks, VS Code, Git, GitHub
 
-## Key Skills
-- Data Presentation
+---
 
-- SQL
-
-- Descriptive Statistics
-
-- Programming Principles
-
-- Web Scraping
-
-- Probability Distribution
-
-- Statistics
-
-- Computer Programming Tools
-
-- Statisitcal Hypothesis Testing
-
-- Data Science
-
-- Data Analysis
-
-- Data Import/Export
-
-- Statistical Analysis
-
-- Stored Procedure
-
-- Data Visualization
-
-## Tools
-- Dashboard
-
-- Jupyter
-
-- Pandas (Python Package)
-
-- Python Programming
-
-- Relational Databases
-
+| # | Course Module | Status |
+| :--- | :--- | :---: |
+| **01** | Tools for Data Science | ✅ Completed in June 2025 |
+| **02** | Python for Data Science, AI and Development | ✅ Completed in April 2025 |
+| **03** | Python Project for Data Science | ✅ Completed in April 2025 |
+| **04** | Statistics for Data Science with Python | ✅ Completed in June 2025 |
+| **05** | Database and SQL for Data Science | ✅ Completed in April 2025 | 
