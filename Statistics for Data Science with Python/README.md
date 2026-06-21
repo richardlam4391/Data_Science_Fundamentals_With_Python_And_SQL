@@ -1,5 +1,7 @@
 # Statistics for Data Science with Python
 
+## Title: Boston Housing
+
 **Statistics for Data Science with Python** forms a fundamental pillar of the Data Science curriculum, bridging the gap between raw data analysis, mathematical rigor, and actionable business insights using Python.
 
 The project demonstrates the ability to test statistical hypotheses.
