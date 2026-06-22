@@ -1,6 +1,4 @@
-# Python Project for Data Science
-
-## Title: Extracting and Visualizing Stock Data
+# Python Project for Data Science: Extracting and Visualizing Stock Data
 
 **Python Project for Data Science** contains extracting, cleaning, and visualizing historical financial and revenue data for major corporations (e.g., Tesla and GameStop) completed in April 2025. 
 
