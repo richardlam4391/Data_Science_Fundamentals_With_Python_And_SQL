@@ -1,7 +1,7 @@
 # Statistics for Data Science with Python
 ## Boston Housing
 
-**Completed:** October 2025 | **Data Science Fundamentals With Python** 
+**Completed:** October 2025 | **Data Science Fundamentals With Python and SQL** 
 
 ---
 
@@ -65,4 +65,4 @@ The ultimate capstone focuses on analyzing the **Boston Housing Dataset** to eva
 ## 🔗 Links
 
 - **Repository:** [GitHub](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/tree/main/Statistics%20for%20Data%20Science%20with%20Python)
-- **Certification:** Data Science Fundamentals with Python (Coursera)
+- **Certification:** Data Science Fundamentals with Python and SQL (Coursera)
