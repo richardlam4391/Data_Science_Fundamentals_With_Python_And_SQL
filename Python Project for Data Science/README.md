@@ -63,5 +63,5 @@ This project serves as the final capstone element for the **Python Project for D
 
 ## 🔗 Links
 
-- **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Python%20Project%20for%20Data%20Science)
+- **Repository:** [GitHub](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/tree/main/Python%20Project%20for%20Data%20Science)
 - **Certification:** Data Science Fundamentals with Python (Coursera)
