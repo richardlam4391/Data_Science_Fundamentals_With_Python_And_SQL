@@ -64,5 +64,5 @@ The ultimate capstone focuses on analyzing the **Boston Housing Dataset** to eva
 
 ## 🔗 Links
 
-- **Repository:** [GitHub](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/IBM%20Data%20Analyst%20Capstone%20Project)
+- **Repository:** [GitHub](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/tree/main/Statistics%20for%20Data%20Science%20with%20Python)
 - **Certification:** Data Science Fundamentals with Python (Coursera)
