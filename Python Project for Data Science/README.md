@@ -7,7 +7,7 @@
 
 ## 📊 Course Overview
 
-This project serves as the final capstone element for the **Python Project for Data Science** mini-course, a key module within the **IBM Data Science Professional Certificate**. In this project, I assumed the role of a Data Analyst / Data Scientist tasked with extracting essential financial data from public companies (specifically Tesla and GameStop) to analyze performance trends. The project demonstrates a complete programmatic pipeline: gathering stock data using libraries, web scraping historical revenue records, processing text into clean data frames, and building a consolidated visual dashboard to compare price movements against financial revenue trends.
+This project serves as the final capstone element for the **Python Project for Data Science** mini-course, a key module within the **Data Science Fundamentals with Python**. In this project, I assumed the role of a Data Analyst / Data Scientist tasked with extracting essential financial data from public companies (specifically Tesla and GameStop) to analyze performance trends. The project demonstrates a complete programmatic pipeline: gathering stock data using libraries, web scraping historical revenue records, processing text into clean data frames, and building a consolidated visual dashboard to compare price movements against financial revenue trends.
 
 ---
 
