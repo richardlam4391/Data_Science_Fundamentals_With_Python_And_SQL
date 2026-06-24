@@ -10,7 +10,7 @@ This module focuses on working with relational database systems, utilizing SQL (
 
 ---
 
-## 🔑 Key Findings & Insights
+## 🎯 Key Findings
 
 - Identified distinct correlations between community hardship indexes, per capita income levels, and local enrollment rates.
 - Uncovered structural patterns in school safety scores and academic success metrics across different neighborhood demographics.
