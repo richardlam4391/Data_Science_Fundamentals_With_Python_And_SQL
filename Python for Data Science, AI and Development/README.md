@@ -1,6 +1,6 @@
 # Python for Data Science, AI and Development
 
-**Completed:** April 2025 | **Data Science Fundamentals with Python** 
+**Completed:** April 2025 | **Data Science Fundamentals with Python SQL** 
 
 ---
 
@@ -56,4 +56,4 @@ This project forms a core component of the **Data Science Fundamentals with Pyth
 ## 🔗 Links
 
 - **Repository:** [GitHub](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/tree/main/Python%20for%20Data%20Science%2C%20AI%20and%20Development)
-- **Certification:** Data Science Fundamentals with Python (Coursera)
+- **Certification:** Data Science Fundamentals with Python and SQL (Coursera)
