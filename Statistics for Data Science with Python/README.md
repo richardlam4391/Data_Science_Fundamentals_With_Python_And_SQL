@@ -23,7 +23,7 @@ The ultimate capstone focuses on analyzing the **Boston Housing Dataset** to eva
 ## 🛠️ Technical Stack
 
 | Category | Tools |
-|----------|-------|
+| :--- | :--- |
 | **Languages** | Python 3.x |
 | **Environment** | Jupyter Notebooks |
 | **Data Manipulation** | Pandas, NumPy |
