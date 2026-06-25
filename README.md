@@ -61,8 +61,11 @@ A structured portfolio repository demonstrating foundational data science method
 ---
 
 **Repository Last Updated:** June 2025  
+
 **Specialization Completed:** June 2025  
+
 **Total Courses:** 5
+
 **Program Duration:** 2 months
 
 For more information about this program, visit [Data Science Fundamentals with Python and SQL](https://www.coursera.org/specializations/data-science-fundamentals-python-sql).
