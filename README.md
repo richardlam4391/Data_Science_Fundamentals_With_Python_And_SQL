@@ -68,5 +68,5 @@ A structured portfolio repository demonstrating foundational data science method
 
 **Program Duration:** 2 months
 
-For more information about this program, visit [Data Science Fundamentals with Python and SQL](https://www.coursera.org/specializations/data-science-fundamentals-python-sql).
+For more information about this program, visit [Data Science Fundamentals with Python and SQL on Coursera](https://www.coursera.org/specializations/data-science-fundamentals-python-sql).
 
