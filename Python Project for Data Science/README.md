@@ -22,7 +22,7 @@ This project serves as the final capstone element for the **Python Project for D
 ## 🛠️ Technical Stack
 
 | Category | Tools |
-|----------|-------|
+| :--- | :--- |
 | **Language** | Python 3.x |
 | **Data Extraction Libraries** | `yfinance` (For programmatic API retrieval of stock splits, historical prices, and volume), 'BeautifulSoup4` & `requests` (For web scraping financial data from HTML tables) |
 | **Data Manipulation & Processing** | `pandas`, `numpy` |
