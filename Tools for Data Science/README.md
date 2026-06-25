@@ -56,5 +56,5 @@ This module provides a comprehensive introduction to the essential tools and env
 
 ## 🔗 Link
 
-- **Repository:** [Github](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/tree/main/Tools%20for%20Data%20Science)
+- **Repository:** [GitHub](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/tree/main/Tools%20for%20Data%20Science)
 - **Certification:** Data Science Fundamentals with Python and SQ (Coursera)
