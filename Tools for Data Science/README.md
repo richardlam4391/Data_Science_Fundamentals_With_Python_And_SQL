@@ -21,7 +21,7 @@ This module provides a comprehensive introduction to the essential tools and env
 ## 🛠️ Technical Stack
 
 | Category | Tools |
-|----------|-------|
+| :--- | :--- |
 | **Languages** | Python, R, SQL |
 | **Development Environments** | Jupyter Notebooks, JupyterLab, RStudio, VS Code |
 | **Version Control & Collaboration** | Git, GitHub |
