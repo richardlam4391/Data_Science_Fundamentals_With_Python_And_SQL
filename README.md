@@ -44,6 +44,12 @@ A structured portfolio repository demonstrating foundational data science method
 
 ---
 
+## 🎓 Certification
+
+✅ [Data Science Fundamentals with Python and SQL](https://www.coursera.org/account/accomplishments/specialization/RQF5XQ4DUCTT) — October 2025
+
+---
+
 ## **Core Learning Outcomes**
 
 ✅ **Python Data Stack:** Pandas for data manipulation, NumPy for numerical computing  
@@ -56,4 +62,8 @@ A structured portfolio repository demonstrating foundational data science method
 
 **Repository Last Updated:** June 2025  
 **Specialization Completed:** June 2025  
-**Certificate:** [Data Science Fundamentals with Python and SQL](https://www.coursera.org/account/accomplishments/specialization/RQF5XQ4DUCTT)
+**Total Courses:** 5
+**Program Duration:** 2 months
+
+For more information about this program, visit [Data Science Fundamentals with Python and SQL](https://www.coursera.org/specializations/data-science-fundamentals-python-sql).
+
