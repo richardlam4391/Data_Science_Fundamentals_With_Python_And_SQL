@@ -46,7 +46,7 @@ A structured portfolio repository demonstrating foundational data science method
 
 ## 🎓 Certification
 
-✅ [Data Science Fundamentals with Python and SQL](https://www.coursera.org/account/accomplishments/specialization/RQF5XQ4DUCTT) — October 2025
+✅ [Data Science Fundamentals with Python and SQL](https://www.coursera.org/account/accomplishments/specialization/RQF5XQ4DUCTT) — June 2025
 
 ---
 
