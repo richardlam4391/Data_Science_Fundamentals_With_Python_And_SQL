@@ -6,6 +6,7 @@
 ---
 
 ## 📊 Course Overview
+
 This course bridges the gap between theoretical statistical foundations and practical data science implementation using Python. It covers data gathering methods, descriptive statistics, exploratory data distributions, probability functions, correlation metrics, rigorous hypothesis testing, and introductory predictive modeling using regression. 
 
 The ultimate capstone focuses on analyzing the **Boston Housing Dataset** to evaluate historical housing values against real-world independent variables (e.g., proximity to employment centers, teacher-to-pupil ratios, nitric oxide concentrations, and age of homes).
