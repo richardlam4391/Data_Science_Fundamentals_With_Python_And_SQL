@@ -34,8 +34,7 @@ This project serves as the final capstone element for the **Python Project for D
 ## 📁 Project Structure
 
 ### Deliverables
-- `Final Assignment Richard Lam` — Jupyter Notebook documentation
-
+- `Final Assignment Richard Lam` — Core Jupyter Notebook project files
 ---
 
 ## 📊 Data Source
