@@ -6,16 +6,17 @@
 ---
 
 ## 📖 Course Overview
+
 This module focuses on working with relational database systems, utilizing SQL (Structured Query Language) to manage, query, and analyze data, and integrating these database operations directly into Python workflows. The curriculum covers foundational database concepts, writing advanced SQL queries (including joins, subqueries, and analytical functions), and connecting to cloud-hosted databases using Python libraries. The final capstone elements involve analyzing real-world datasets—such as socioeconomic indicators, public school performance, and crime statistics—to solve complex, data-driven problems.
 
 ---
 
 ## 🎯 Key Findings
 
-- Identified distinct correlations between community hardship indexes, per capita income levels, and local enrollment rates.
-- Uncovered structural patterns in school safety scores and academic success metrics across different neighborhood demographics.
-- Map-based and frequency-based analysis pinpointed specific areas with disproportionately high frequencies of specific crime categories, providing actionable insight for public resource allocation.
-- Demonstrated that moving heavy data-filtering and aggregation workloads to the database engine via SQL significantly reduces memory overhead in Python compared to processing raw data entirely within Pandas.
+- **Socioeconomic Impacts** - Identified distinct correlations between community hardship indexes, per capita income levels, and local enrollment rates.
+- **School Performance Trends** - Uncovered structural patterns in school safety scores and academic success metrics across different neighborhood demographics.
+- **Crime Hotspots** - Map-based and frequency-based analysis pinpointed specific areas with disproportionately high frequencies of specific crime categories, providing actionable insight for public resource allocation.
+- **Python-SQL Synergy** - Demonstrated that moving heavy data-filtering and aggregation workloads to the database engine via SQL significantly reduces memory overhead in Python compared to processing raw data entirely within Pandas.
 
 ---
 
