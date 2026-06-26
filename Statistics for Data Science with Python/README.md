@@ -36,8 +36,8 @@ The ultimate capstone focuses on analyzing the **Boston Housing Dataset** to eva
 
 ### Deliverables 
 
-- 'boston_housing.csv' - Source and processed datasets
-- 'Peer_Graded_Assignment.jupyterlite.ipynb' - Core Jupyter Notebook project files
+- `boston_housing.csv` - Source and processed datasets
+- `Peer_Graded_Assignment.jupyterlite.ipynb` - Core Jupyter Notebook project files
 
 ---
 
