@@ -1,6 +1,6 @@
 # Python Project for Data Science
-
 ## Extracting and Visualizing Stock Data
+
 **Completed:** April 2025 | **Data Science Fundamentals with Python and SQL**
 
 ---
