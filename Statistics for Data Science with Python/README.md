@@ -1,6 +1,8 @@
 # Statistics for Data Science with Python
 ## Boston Housing
 
+---
+
 **Completed:** October 2025 | **Data Science Fundamentals With Python and SQL** 
 
 ---
