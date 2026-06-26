@@ -1,5 +1,7 @@
 # Python for Data Science, AI and Development
 
+---
+
 **Completed:** April 2025 | **Data Science Fundamentals with Python SQL** 
 
 ---
