@@ -1,5 +1,7 @@
 # Tools for Data Science
 
+---
+
 **Completed: June 2025** | **Data Science Fundamentals with Python and SQL** 
 
 ---
