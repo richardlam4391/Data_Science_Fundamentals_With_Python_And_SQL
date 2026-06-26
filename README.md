@@ -1,5 +1,7 @@
 # Data Science Fundamentals with Python and SQL
 
+---
+
 A structured portfolio repository demonstrating foundational data science methodologies, relational database querying, and statistical data analysis. 
 
 ---
