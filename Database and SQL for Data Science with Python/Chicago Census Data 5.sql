@@ -1,0 +1,2 @@
+-- List the kind of crimes that were recorded at schools. (No repetitions) 
+SELECT distinct(primary_type), location_description from sample_csv.chicagocrimedata where location_description like '%school%'; 

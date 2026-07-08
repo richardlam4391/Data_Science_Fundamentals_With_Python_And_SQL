@@ -1,0 +1,2 @@
+-- List all case number for crimes involving minors? (children are not considered minors for the purposes of crime analysis)
+Select case_number from sample_csv.chicagocrimedata where description like '%minor%';
