@@ -38,7 +38,7 @@ This module focuses on working with relational database systems, utilizing SQL (
 | Category | Tools |
 | :--- | :--- |
 | **Language:** | SQL, Python |
-| **DDatabase Management Systems** | IBM Db2 (Cloud/Lite), SQLite |
+| **DDatabase Management Systems** | IBM Db2 (Cloud/Lite), SQLite, MySQL |
 | **Python Libraries** | ipython-sql (SQL Magic commands for Jupyter Notebooks), ibm_db & ibm_db_sa (IBM Db2 driver and SQLAlchemy adapter), pandas (Data manipulation and analysis), matplotlib / seaborn (Data visualization) |
 
 ---
@@ -48,6 +48,8 @@ This module focuses on working with relational database systems, utilizing SQL (
 ### Deliverables
 - `mod5_final_project` — Core Jupyter Notebook project files
 - .csv files - Source and processed datasets
+- Solution of Chicago Census Data 1 -10 (PNG files) - Visual results from MySQL WorkBench screenshots
+- Chicago Census Data 1 - 10 (SQL files) - SQL query statements
 
 ---
 
