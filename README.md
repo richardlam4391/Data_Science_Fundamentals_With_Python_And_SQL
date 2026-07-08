@@ -15,7 +15,7 @@ A structured portfolio repository demonstrating foundational data science method
 
 ## **Tools & Technologies**
 
-* **Languages:** Python, SQL (SQLite, PostgreSQL)
+* **Languages:** Python, SQL (SQLite, PostgreSQL, MySQL)
 * **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn, SciPy
 * **Environments & Tools:** Jupyter Notebooks, VS Code, Git, GitHub
 
