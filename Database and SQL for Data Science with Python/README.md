@@ -20,6 +20,17 @@ This module focuses on working with relational database systems, utilizing SQL (
 - **Crime Hotspots** - Map-based and frequency-based analysis pinpointed specific areas with disproportionately high frequencies of specific crime categories, providing actionable insight for public resource allocation.
 - **Python-SQL Synergy** - Demonstrated that moving heavy data-filtering and aggregation workloads to the database engine via SQL significantly reduces memory overhead in Python compared to processing raw data entirely within Pandas.
 
+![Solution of Chicago Census Data 1](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/blob/main/Database%20and%20SQL%20for%20Data%20Science%20with%20Python/Solution%20of%20Chicago%20Census%20Data%201.png)
+![Solution of Chicago Census Data 2](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/blob/main/Database%20and%20SQL%20for%20Data%20Science%20with%20Python/Solution%20of%20Chicago%20Census%20Data%202.png)
+![Solution of Chicago Census Data 3](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/blob/main/Database%20and%20SQL%20for%20Data%20Science%20with%20Python/Solution%20of%20Chicago%20Census%20Data%203.png)
+![Solution of Chicago Census Data 4](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/blob/main/Database%20and%20SQL%20for%20Data%20Science%20with%20Python/Solution%20of%20Chicago%20Census%20Data%204.png)
+![Solution of Chicago Census Data 5](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/blob/main/Database%20and%20SQL%20for%20Data%20Science%20with%20Python/Solution%20of%20Chicago%20Census%20Data%205.png)
+![Solution of Chicago Census Data 6](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/blob/main/Database%20and%20SQL%20for%20Data%20Science%20with%20Python/Solution%20of%20Chicago%20Census%20Data%206.png)
+![Solution of Chicago Census Data 7](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/blob/main/Database%20and%20SQL%20for%20Data%20Science%20with%20Python/Solution%20of%20Chicago%20Census%20Data%207.png)
+![Solution of Chicago Census Data 8](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/blob/main/Database%20and%20SQL%20for%20Data%20Science%20with%20Python/Solution%20of%20Chicago%20Census%20Data%208.png)
+![Solution of Chicago Census Data 9](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/blob/main/Database%20and%20SQL%20for%20Data%20Science%20with%20Python/Solution%20of%20Chicago%20Census%20Data%209.png)
+![Solution of chicago Census Data 10](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/blob/main/Database%20and%20SQL%20for%20Data%20Science%20with%20Python/Solution%20of%20Chicago%20Census%20Data%2010.png)
+
 ---
 
 ## 🛠️ Technical Stack
