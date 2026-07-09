@@ -89,5 +89,5 @@ This module focuses on working with relational database systems, utilizing SQL (
 ## 🔗 Links
 
 * **Repository:** [GitHub](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/tree/main/Database%20and%20SQL%20for%20Data%20Science%20with%20Python)
-* **Certification:** Data Science Fundamentals with Python and SQL (Coursera)
+* **Certification:** [Database and SQL for Data Science with Python (Coursera)](https://www.coursera.org/account/accomplishments/verify/NL7BBVS8KQMB) - April 2025
 
