@@ -70,4 +70,4 @@ The ultimate capstone focuses on analyzing the **Boston Housing Dataset** to eva
 ## 🔗 Links
 
 * **Repository:** [GitHub](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/tree/main/Statistics%20for%20Data%20Science%20with%20Python)
-* **Certification:** [Statistics for Data Science with Python (Coursera)](https://www.coursera.org/account/accomplishments/verify/BL5YA7MIGS4D) - June 2025
+* **Certification:** [Statistics for Data Science with Python (Coursera)](https://www.coursera.org/account/accomplishments/verify/BL5YA7MIGS4D) 
