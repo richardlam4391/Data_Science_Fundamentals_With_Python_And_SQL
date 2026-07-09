@@ -69,6 +69,8 @@ This module focuses on working with relational database systems, utilizing SQL (
     * **Chicago Public Schools** - Detailed school-level performance, safety ratings, and enrollment data.
     * **Chicago Crime Data** - Reported incidents of crime occurring within the City of Chicago, covering locations, types of offenses, and arrest outcomes.
 
+---
+
 ## 💡 Key Skills Demonstrated
 
 * **Relational Database Concepts** - Designing and querying relational databases using DDL (Data Definition Language) and DML (Data Manipulation Language).
