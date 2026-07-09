@@ -58,4 +58,4 @@ This project forms a core component of the **Data Science Fundamentals with Pyth
 ## 🔗 Links
 
 * **Repository:** [GitHub](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/tree/main/Python%20for%20Data%20Science%2C%20AI%20and%20Development)
-* **Certification:** Data Science Fundamentals with Python and SQL (Coursera)
+* **Certification:** [Python for Data Science, AI and Development (Coursera)](https://www.coursera.org/account/accomplishments/verify/8VA7R7HY70B0) - April 2025 
