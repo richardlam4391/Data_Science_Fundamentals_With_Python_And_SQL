@@ -34,25 +34,25 @@ This module provides a comprehensive introduction to the essential tools and env
 
 ## 📊 Data Source
 
-- **Primary Source** - Synthetic and open-source benchmark datasets provided by IBM Skills Network labs.
-- **Data Types** - Structured CSV files containing operational, financial, and demographic metrics designed to simulate real-world data science cleaning and manipulation tasks.
+* **Primary Source** - Synthetic and open-source benchmark datasets provided by IBM Skills Network labs.
+* **Data Types** - Structured CSV files containing operational, financial, and demographic metrics designed to simulate real-world data science cleaning and manipulation tasks.
 
 ---
 
 ## 💡 Key Skills Demonstrated
 
-- **Environment Configuration** - Setting up, navigating, and managing kernels within Jupyter Notebooks and RStudio local/cloud instances.
-- **Version Control Management** - Executing standard Git workflows including cloning repositories, staging changes, committing code, pushing to GitHub, and managing branches.
-- **Cloud Architecture Integration** - Deploying asset storage, analytical models, and notebooks within IBM Watson Studio and managing cloud service instances.
-- **Document and Markdown Design** - Structuring professional documentation, code commenting, and markdown narratives to make technical assets reproducible and clear.
+* **Environment Configuration** - Setting up, navigating, and managing kernels within Jupyter Notebooks and RStudio local/cloud instances.
+* **Version Control Management** - Executing standard Git workflows including cloning repositories, staging changes, committing code, pushing to GitHub, and managing branches.
+* **Cloud Architecture Integration** - Deploying asset storage, analytical models, and notebooks within IBM Watson Studio and managing cloud service instances.
+* **Document and Markdown Design** - Structuring professional documentation, code commenting, and markdown narratives to make technical assets reproducible and clear.
 
 ---
 
 ## 📉 Visualization Highlights
 
-- During the tool-exploration labs, emphasis was placed on leveraging built-in and open-source plotting libraries to quickly gain descriptive insights from raw data:
-  - **Interactive Notebook Visualizations** - Generating inline exploratory plots (scatter plots, histograms) using Matplotlib and Seaborn to audit data distributions.
-  - **RStudio Data Plots** - Utilizing ggplot2 to create structured, layered statistical charts directly within the R ecosystem.
+* During the tool-exploration labs, emphasis was placed on leveraging built-in and open-source plotting libraries to quickly gain descriptive insights from raw data:
+  * **Interactive Notebook Visualizations** - Generating inline exploratory plots (scatter plots, histograms) using Matplotlib and Seaborn to audit data distributions.
+  * **RStudio Data Plots** - Utilizing ggplot2 to create structured, layered statistical charts directly within the R ecosystem.
  
 ---
 
