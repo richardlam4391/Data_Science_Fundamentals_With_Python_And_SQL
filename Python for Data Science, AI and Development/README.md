@@ -10,17 +10,23 @@
 
 This project forms a core component of the **Data Science Fundamentals with Python and SQL**. It covers the fundamentals of programming in Python, starting from basic syntax and data structures to object-oriented programming (OOP), logic control, web scraping, and interacting with data via APIs. The course is designed to equip learners with essential Python foundations required to manipulate, analyze, and build web or AI solutions using data science libraries.
 
+---
+
 ## 🎯 Key Findings
 
 - **Data Automation Efficiency** - Demonstrated that utilizing native Python data structures paired with third-party libraries decreases manual parsing times and provides standard routines for unstructured text manipulation.
 * **API Integration** - Verified that fetching remote data programmatically using standard network protocols provides real-time access to live datasets for analytical modeling.
 * **Web Scraping Utility** - Confirmed that raw HTML can be effectively queried to structure complex datasets when structural web elements follow standardized tag layouts.---
 
+---
+
 ## 🛠️ Technical Skills
 * **Language:** Python 3.x
 * **Core Computational Libraries:** `Pandas`, `NumPy`
 * **Built-in modules:** `sys`, `os`, `math`
 * **Development Environment:** Jupyter Notebook / Python CLI
+
+---
 
 | Category | Tools |
 | :--- | :--- |
