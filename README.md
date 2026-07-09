@@ -13,6 +13,8 @@ A structured portfolio repository demonstrating foundational data science method
 * **Data Visualization:** Developing scannable, insightful plots to reveal underlying data patterns and distributions.
 * **Statistical Analysis:** Descriptive statistics, correlation analysis, and feature relationships.
 
+---
+
 ## **Tools & Technologies**
 
 * **Languages:** Python, SQL (SQLite, PostgreSQL, MySQL)
