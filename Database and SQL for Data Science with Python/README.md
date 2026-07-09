@@ -15,10 +15,10 @@ This module focuses on working with relational database systems, utilizing SQL (
 
 ## 🎯 Key Findings
 
-- **Socioeconomic Impacts** - Identified distinct correlations between community hardship indexes, per capita income levels, and local enrollment rates.
-- **School Performance Trends** - Uncovered structural patterns in school safety scores and academic success metrics across different neighborhood demographics.
-- **Crime Hotspots** - Map-based and frequency-based analysis pinpointed specific areas with disproportionately high frequencies of specific crime categories, providing actionable insight for public resource allocation.
-- **Python-SQL Synergy** - Demonstrated that moving heavy data-filtering and aggregation workloads to the database engine via SQL significantly reduces memory overhead in Python compared to processing raw data entirely within Pandas.
+* **Socioeconomic Impacts** - Identified distinct correlations between community hardship indexes, per capita income levels, and local enrollment rates.
+* **School Performance Trends** - Uncovered structural patterns in school safety scores and academic success metrics across different neighborhood demographics.
+* **Crime Hotspots** - Map-based and frequency-based analysis pinpointed specific areas with disproportionately high frequencies of specific crime categories, providing actionable insight for public resource allocation.
+* **Python-SQL Synergy** - Demonstrated that moving heavy data-filtering and aggregation workloads to the database engine via SQL significantly reduces memory overhead in Python compared to processing raw data entirely within Pandas.
 
 1) ![Solution of Chicago Census Data 1](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/blob/main/Database%20and%20SQL%20for%20Data%20Science%20with%20Python/Solution%20of%20Chicago%20Census%20Data%201.png)
 
@@ -55,39 +55,39 @@ This module focuses on working with relational database systems, utilizing SQL (
 ## 📁 Project Structure
 
 ### Deliverables
-- `mod5_final_project` — Core Jupyter Notebook project files
-- .csv files - Source and processed datasets
-- Solution of Chicago Census Data 1 -10 (PNG files) - Visual results from MySQL WorkBench screenshots
-- Chicago Census Data 1 - 10 (SQL files) - SQL query statements
+* `mod5_final_project` — Core Jupyter Notebook project files
+* .csv files - Source and processed datasets
+* Solution of Chicago Census Data 1 -10 (PNG files) - Visual results from MySQL WorkBench screenshots
+* Chicago Census Data 1 - 10 (SQL files) - SQL query statements
 
 ---
 
 ## 📊 Data Source
 
-- The analytical projects in this module utilize public datasets provided by the City of Chicago Data Portal:
-    - **Socioeconomic Indicators in Chicago** - Census data detailing per capita income, unemployment, and hardship indexes by community area.
-    - **Chicago Public Schools** - Detailed school-level performance, safety ratings, and enrollment data.
-    - **Chicago Crime Data** - Reported incidents of crime occurring within the City of Chicago, covering locations, types of offenses, and arrest outcomes.
+* The analytical projects in this module utilize public datasets provided by the City of Chicago Data Portal:
+    * **Socioeconomic Indicators in Chicago** - Census data detailing per capita income, unemployment, and hardship indexes by community area.
+    * **Chicago Public Schools** - Detailed school-level performance, safety ratings, and enrollment data.
+    * **Chicago Crime Data** - Reported incidents of crime occurring within the City of Chicago, covering locations, types of offenses, and arrest outcomes.
 
 ## 💡 Key Skills Demonstrated
 
-- **Relational Database Concepts** - Designing and querying relational databases using DDL (Data Definition Language) and DML (Data Manipulation Language).
-- **Advanced Querying** - Executing complex multi-table JOIN operations, nested SUBQUERIES, and built-in database functions.
-- **Python Database Integration** - Using database APIs (DB-API) and connection strings to execute queries directly from Jupyter Notebooks and seamlessly load result sets into Pandas DataFrames.
-- **Data Analysis & Filtering** - Sorting, grouping (GROUP BY, HAVING), and aggregating data to extract high-level summaries from massive rows of raw records.
+* **Relational Database Concepts** - Designing and querying relational databases using DDL (Data Definition Language) and DML (Data Manipulation Language).
+* **Advanced Querying** - Executing complex multi-table JOIN operations, nested SUBQUERIES, and built-in database functions.
+* **Python Database Integration** - Using database APIs (DB-API) and connection strings to execute queries directly from Jupyter Notebooks and seamlessly load result sets into Pandas DataFrames.
+* **Data Analysis & Filtering** - Sorting, grouping (GROUP BY, HAVING), and aggregating data to extract high-level summaries from massive rows of raw records.
 
 ---
 
 ## 📈 Visualization Highlights
 
-- **Hardship vs. Income Scatter Plots** - Showcasing the negative correlation between a community’s hardship index and its per capita income.
-- **Enrollment Distribution Histograms** - Visualizing the distribution of student enrollment across Chicago elementary, middle, and high schools.
-- **Crime Type Bar Charts** - Highlighting the most frequent types of crimes committed to assist in trend identification.
+* **Hardship vs. Income Scatter Plots** - Showcasing the negative correlation between a community’s hardship index and its per capita income.
+* **Enrollment Distribution Histograms** - Visualizing the distribution of student enrollment across Chicago elementary, middle, and high schools.
+* **Crime Type Bar Charts** - Highlighting the most frequent types of crimes committed to assist in trend identification.
 
 ---
 
 ## 🔗 Links
 
-- **Repository:** [GitHub](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/tree/main/Database%20and%20SQL%20for%20Data%20Science%20with%20Python)
-- **Certification:** Data Science Fundamentals with Python and SQL (Coursera)
+* **Repository:** [GitHub](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/tree/main/Database%20and%20SQL%20for%20Data%20Science%20with%20Python)
+* **Certification:** Data Science Fundamentals with Python and SQL (Coursera)
 
