@@ -36,13 +36,13 @@ A structured portfolio repository demonstrating foundational data science method
 ## **Notable Projects**
 
 ### **Database & SQL**
-- **[Chicago Socioeconomic Data Analysis](./Database%20and%20SQL%20for%20Data%20Science%20with%20Python)** — Advanced SQL queries, database management, Python integration
+* **[Chicago Socioeconomic Data Analysis](./Database%20and%20SQL%20for%20Data%20Science%20with%20Python)** — Advanced SQL queries, database management, Python integration
 
 ### **Financial Data Analysis**
-- **[Stock Data Analysis: Tesla & GameStop](./Python%20Project%20for%20Data%20Science)** — Web scraping, API integration, Plotly visualization
+* **[Stock Data Analysis: Tesla & GameStop](./Python%20Project%20for%20Data%20Science)** — Web scraping, API integration, Plotly visualization
 
 ### **Statistical Modeling**
-- **[Boston Housing Statistics](./Statistics%20for%20Data%20Science%20with%20Python)** — Descriptive statistics, correlation analysis, distribution testing
+* **[Boston Housing Statistics](./Statistics%20for%20Data%20Science%20with%20Python)** — Descriptive statistics, correlation analysis, distribution testing
 
 ---
 
@@ -62,13 +62,10 @@ A structured portfolio repository demonstrating foundational data science method
 
 ---
 
-**Repository Last Updated:** June 2025  
-
-**Specialization Completed:** June 2025  
-
-**Total Courses:** 5
-
-**Program Duration:** 2 months
+* **Repository Last Updated:** June 2025  
+* **Specialization Completed:** June 2025  
+* **Total Courses:** 5
+* **Program Duration:** 2 months
 
 For more information about this program, visit [Data Science Fundamentals with Python and SQL on Coursera](https://www.coursera.org/specializations/data-science-fundamentals-python-sql).
 
