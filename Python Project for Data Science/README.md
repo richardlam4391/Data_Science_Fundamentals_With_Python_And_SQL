@@ -36,33 +36,33 @@ This project serves as the final capstone element for the **Python Project for D
 ## 📁 Project Structure
 
 ### Deliverables
-- `Final Assignment Richard Lam` — Core Jupyter Notebook project files
+* `Final Assignment Richard Lam` — Core Jupyter Notebook project files
 ---
 
 ## 📊 Data Source
 
-- **Stock Market Data** - Programmatically requested and streamed directly from the official Yahoo Finance (yfinance) API, capturing open, high, low, close, and volume metrics.
-- **Historical Revenue Data** - Extracted by web scraping macrotrends.net HTML files to pull quarterly financial disclosures spanning multiple fiscal years.
+* **Stock Market Data** - Programmatically requested and streamed directly from the official Yahoo Finance (yfinance) API, capturing open, high, low, close, and volume metrics.
+* **Historical Revenue Data** - Extracted by web scraping macrotrends.net HTML files to pull quarterly financial disclosures spanning multiple fiscal years.
 
 ---
 
 ## 💡 Key Skills Demonstrated
 
-- **API Integration** - Using specialized financial libraries (yfinance) to query complex ticker data seamlessly.
-- **Web Scraping & DOM Parsing** - Constructing programmatic HTTP requests, bypassing basic scraping barriers, and navigating HTML tree structures with BeautifulSoup to find hidden table nodes.
-- **Data Preprocessing & Wrangling** - Parsing string values containing currency characters ($) and punctuation (commas), handling missing data rows, and converting target vectors into optimized numeric and datetime types.
-- **Interactive Dashboard Development** - Designing a robust helper function using Plotly to output dual-graph interactive dashboards with slider filters.
+* **API Integration** - Using specialized financial libraries (yfinance) to query complex ticker data seamlessly.
+* **Web Scraping & DOM Parsing** - Constructing programmatic HTTP requests, bypassing basic scraping barriers, and navigating HTML tree structures with BeautifulSoup to find hidden table nodes.
+* **Data Preprocessing & Wrangling** - Parsing string values containing currency characters ($) and punctuation (commas), handling missing data rows, and converting target vectors into optimized numeric and datetime types.
+* **Interactive Dashboard Development** - Designing a robust helper function using Plotly to output dual-graph interactive dashboards with slider filters.
 
 ---
 
 ## 📈 Visualization Highlights
 
-- **Historical Share Price Chart** - A clean, time-series line plot tracking closing values across the company's lifespan.
-- **Historical Revenue Chart** - A matching timeline bar or line chart tracking actual revenue figures side-by-side.
+* **Historical Share Price Chart** - A clean, time-series line plot tracking closing values across the company's lifespan.
+* **Historical Revenue Chart** - A matching timeline bar or line chart tracking actual revenue figures side-by-side.
 
 ---
 
 ## 🔗 Links
 
-- **Repository:** [GitHub](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/tree/main/Python%20Project%20for%20Data%20Science)
-- **Certification:** Data Science Fundamentals with Python and SQL (Coursera)
+* **Repository:** [GitHub](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/tree/main/Python%20Project%20for%20Data%20Science)
+* **Certification:** Data Science Fundamentals with Python and SQL (Coursera)
