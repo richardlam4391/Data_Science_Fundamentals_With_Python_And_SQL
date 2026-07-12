@@ -41,8 +41,9 @@ This project serves as the final capstone element for the **Python Project for D
 
 ## 📊 Data Source
 
-* **Stock Market Data** - Programmatically requested and streamed directly from the official Yahoo Finance (yfinance) API, capturing open, high, low, close, and volume metrics.
-* **Historical Revenue Data** - Extracted by web scraping macrotrends.net HTML files to pull quarterly financial disclosures spanning multiple fiscal years.
+* This project integrates two primary data sources covering [Tesla Revenue](https://www.macrotrends.net/stocks/charts/TSLA/tesla/revenue) and [GME Revenue](https://www.macrotrends.net/stocks/charts/GME/gamestop/revenue):
+  * **Stock Market Data** - Programmatically requested and streamed directly from the official Yahoo Finance (yfinance) API, capturing open, high, low, close, and volume metrics.
+  * **Historical Revenue Data** - Extracted by web scraping macrotrends.net HTML files to pull quarterly financial disclosures spanning multiple fiscal years.
 
 ---
 
