@@ -39,11 +39,11 @@ This project serves as the final capstone element for the **Python Project for D
 * `Final Assignment Richard Lam` — Core Jupyter Notebook project files
 ---
 
-## 📊 Data Source
+## 📊 Data Sources
 
-* This project integrates two primary data sources covering [Tesla Revenue](https://www.macrotrends.net/stocks/charts/TSLA/tesla/revenue) and [GME Revenue](https://www.macrotrends.net/stocks/charts/GME/gamestop/revenue):
-  * **Stock Market Data** - Programmatically requested and streamed directly from the official Yahoo Finance (yfinance) API, capturing open, high, low, close, and volume metrics.
-  * **Historical Revenue Data** - Extracted by web scraping macrotrends.net HTML files to pull quarterly financial disclosures spanning multiple fiscal years.
+This project leverages two primary data streams to analyze financial performance for [Tesla (TSLA)](https://www.macrotrends.net/stocks/charts/TSLA/tesla/revenue) and [GameStop (GME)](https://www.macrotrends.net/stocks/charts/GME/gamestop/revenue):
+* **Stock Market Data:** Retrieved programmatically using the official `yfinance` (Yahoo Finance) API to stream historical performance metrics, including Open, High, Low, Close, and Volume.
+* **Historical Financials:** Extracted via web scraping from Macrotrends to capture quarterly revenue disclosures spanning multiple fiscal years.
 
 ---
 
