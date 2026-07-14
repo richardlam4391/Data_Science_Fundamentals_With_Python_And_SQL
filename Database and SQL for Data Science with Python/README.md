@@ -62,12 +62,12 @@ This module focuses on working with relational database systems, utilizing SQL (
 
 ---
 
-## 📊 Data Source
+## 📊 Data Sources
 
-* The analytical projects in this module utilize [public datasets](https://data.cityofchicago.org/) provided by the City of Chicago Data Portal:
-    * **Socioeconomic Indicators in Chicago** - Census data detailing per capita income, unemployment, and hardship indexes by community area.
-    * **Chicago Public Schools** - Detailed school-level performance, safety ratings, and enrollment data.
-    * **Chicago Crime Data** - Reported incidents of crime occurring within the City of Chicago, covering locations, types of offenses, and arrest outcomes.
+The analytical projects in this module utilize public datasets sourced directly from the [City of Chicago Data Portal](https://data.cityofchicago.org/):
+* **Socioeconomic Indicators:** Census data detailing per capita income, unemployment rates, and hardship indexes across various Chicago community areas.
+* **Public School Performance:** Comprehensive school-level data covering academic metrics, safety ratings, and enrollment figures.
+* **Crime Records:** Historical logs of reported incidents within the city, including crime types, locations, and arrest outcomes.
 
 ---
 
