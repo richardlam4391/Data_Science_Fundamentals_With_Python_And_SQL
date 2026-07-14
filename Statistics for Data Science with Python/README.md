@@ -46,8 +46,15 @@ The ultimate capstone focuses on analyzing the **Boston Housing Dataset** to eva
 
 ## 📊 Data Source
 
-* The primary analysis utilizes the [Boston Housing Dataset](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html), initially compiled by the U.S. Census Bureau and widely hosted by the Carnegie Mellon University StatLib library:
-  * `CRIM` (per capita crime rate), `ZN` (proportion of residential land zoned for lots over 25,000 sq.ft.), `INDUS` (proportion of non-retail business acres), `CHAS` (Charles River dummy variable), `NOX` (nitric oxides concentration), `RM` (average number of rooms), `AGE` (proportion of owner-occupied units built prior to 1940), `DIS` (weighted distances to employment centers), `PTRATIO` (pupil-teacher ratio), and `MEDV` (median value of owner-occupied homes in $1000s).
+This project utilizes the classic [Boston Housing Dataset](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html), originally compiled by the U.S. Census Bureau and hosted by the Carnegie Mellon University StatLib library:
+
+* **Dataset Profile:** Contains census tract-level data describing the socioeconomic and structural characteristics of residential properties in Boston, MA.
+* **Key Variables Analyzed:**
+  * `MEDV` - Median value of owner-occupied homes (in $1,000s) [Target Variable]
+  * `CRIM` / `ZN` / `INDUS` - Per capita crime rate, residential land zoning proportions, and non-retail business acreage.
+  * `CHAS` / `NOX` - Charles River proximity indicator (dummy variable) and nitric oxide concentrations.
+  * `RM` / `AGE` / `DIS` - Average rooms per dwelling, proportion of pre-1940 built units, and weighted distances to employment centers.
+  * `PTRATIO` - Pupil-teacher ratio by town.
 
 ---
 
